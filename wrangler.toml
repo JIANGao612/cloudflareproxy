@@ -1,0 +1,4 @@
+# wrangler.toml
+name = "cloudflareproxy"          # 与你的 Worker 名称保持一致（可修改）
+main = "index.js"                 # 指向刚才创建的入口文件
+compatibility_date = "2026-09-01" # 使用当天或最近的日期
